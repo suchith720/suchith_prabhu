@@ -11,19 +11,12 @@ https://suchith720.github.io/suchith_prabhu/
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
+This is a one-stop place to know all about me, my thoughts, work and about how screwed my life is. I like writing and it really releases my stress and lets me channelize all my positive energy.
 
-## What To Do Next?
+## Want to contact me?
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+Anyone can reach out to me, share their thoughts with me or have an idea.  Some links:
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+- [Twitter](https://twitter.com/suchith720)
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
-
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
-
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+- [Instagram](https://www.instagram.com/suchith_prabhu/)
