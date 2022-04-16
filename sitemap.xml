@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://suchith720.github.io/blogs/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/jupyter/2020/02/20/test.html</loc>
+<loc>https://suchith720.github.io/blogs/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/fastpages/jupyter/2022/04/14/sports_classifier_lesson.html</loc>
-<lastmod>2022-04-14T00:00:00-05:00</lastmod>
+<loc>https://suchith720.github.io/blogs/fastpages/jupyter/2022/04/15/sports_classifier_lesson.html</loc>
+<lastmod>2022-04-15T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/about/</loc>
+<loc>https://suchith720.github.io/blogs/about/</loc>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/</loc>
+<loc>https://suchith720.github.io/blogs/</loc>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/search/</loc>
+<loc>https://suchith720.github.io/blogs/search/</loc>
 </url>
 <url>
-<loc>https://suchith720.github.io/suchith_prabhu/categories/</loc>
+<loc>https://suchith720.github.io/blogs/categories/</loc>
 </url>
 </urlset>
